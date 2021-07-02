@@ -1,0 +1,120 @@
+.car-img {
+     height: 500px;
+    width: 100%;
+}
+.animehero{
+    background: #ffffff;
+  
+    box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.1);
+}
+.p-3{
+    background: #ffffff;
+  
+    box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.1);
+
+}
+.butt{
+    margin-left: 2%;
+}
+.Card-anime-d{
+    background: #ffffff;
+    box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.1);
+   max-width: 88%; 
+    height: 44%;
+    margin-bottom: 4%;
+    margin: auto;
+}
+.card-img-val{
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+    background: #ffffff;
+    box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.1);
+   max-width: 88%; 
+    
+}
+.parent-div{
+    margin-top: 5%;
+    padding-left: 10%;
+    
+}
+
+.parent-value{
+    overflow: auto;
+ table-layout: auto !important;
+}
+
+.card-body{
+    display: flex;
+}
+
+.card-body-child {
+    display: flex;
+    margin: auto;
+    margin-left: 5%;
+}
+.rating{
+    margin-left: 15%;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+}
+.text-muted{
+    margin-left: 15%;
+}
+.tabs{
+    display: flex;
+}
+.bttn-res{
+    margin-left: 10%;
+    margin-top: 4%;
+}
+.top-nav{
+    color: #ffffff;
+}
+.movie-anime{
+    
+    font-weight: bold;
+    font-size: 2rem;
+    color: rgb(23, 23, 131);
+    font-family: 'Gabriela', serif;
+    
+}
+.movie-anime1{
+    font-family: 'Dela Gothic One', cursive;
+    font-weight: bold;
+    font-size: 2rem;
+    
+    
+}
+.ratin{
+    font-family: 'Gabriela', serif;
+    font-size: 1rem;
+    margin-left: 2%;
+
+
+}
+.parent-div-value{
+    width: 95%;
+}
+.find-hero-card
+{
+    height: 250px;
+    background: #ffffff;
+    box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.1);
+}
+.anime-find-div{
+    background: #ffffff;
+    box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.1);
+
+}
+.find-anime-box{
+    width: 80%;
+    height: 50px;
+    border-style:solid;
+}
+.Title-card{
+    font-family: 'Gabriela', serif;
+    font-size: 1rem;
+    margin-top: 2%;
+}
